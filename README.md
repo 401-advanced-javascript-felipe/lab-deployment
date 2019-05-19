@@ -5,10 +5,10 @@
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [submission PR]
+* [travis](https://www.travis-ci.com/401-advanced-javascript-felipe/lab-deployment)
+* [back-end]
+* [front-end](https://lab00deployment.herokuapp.com/)
 
 #### Documentation
 * [api docs](http://xyz.com) (API servers)

@@ -8,7 +8,7 @@ Some change
 ### Author: Student/Group Name
 
 ### Links and Resources
-* [submission PR]
+* [submission PR](https://github.com/401-advanced-javascript-felipe/lab-deployment/pull/1)
 * [travis](https://www.travis-ci.com/401-advanced-javascript-felipe/lab-deployment)
 * [back-end]
 * [front-end](https://lab00deployment.herokuapp.com/)
@@ -42,8 +42,11 @@ Usage Notes or examples
   
 #### Tests
 * How do you run tests?
+Travis
 * What assertions were made?
+Zero. For this assigment
 * What assertions need to be / should be made?
+Zero. For this assigment
 
 #### UML
 Link to an image of the UML for your application and response to events
